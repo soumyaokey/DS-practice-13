@@ -1,2 +1,2 @@
-# DS-practice-13
-heap sort
+# DS-practice-14
+binary_search
